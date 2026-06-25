@@ -119,3 +119,6 @@ dist
 *.njsproj
 *.sln
 *.sw?
+
+# MongoDB Local
+mongodb-local/
